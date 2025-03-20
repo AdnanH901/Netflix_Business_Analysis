@@ -33,7 +33,8 @@ Netflix is experiencing consistent revenue growth over the years initally starti
 # Insights Deep Dive
 ### Churn Analysis:
   
-* **Churn Globally:** TEXT
+* **Churn Globally:** Netflix, out of a sample of 1,000,000, has been able to keep the number of unsubscribers small:
+  * Over its early years, Netflix has had a very small increase in churn numbers. This suggests that they have done quite well in their startup years.
   
 * **Churn & Genre:** TEXT
 
