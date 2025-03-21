@@ -1,7 +1,7 @@
 # Project background
 Netflix (founded in 1997) is a global leader in the streaming and entertainment market. It offers a variety of TV shows, movies, documentaries and original content. They have over **over 300 million subscribers** worldwide (as of 2024).
 
-The company has a significant amount of data on its content offerings, operational efficiency and customer retention rates that have been previously underutilised. This project thoroughly analyses and synthesises this data to uncover critical insights that will improve Netflix's customer acquisition and retention.
+The company has significant data on its content offerings, operational efficiency, and customer retention rates that have previously been underutilised. This project thoroughly analyses and synthesises this data to uncover critical insights that will improve Netflix's customer acquisition and retention.
 
 Insights and recommendations are provided on the following key areas:
 
@@ -26,31 +26,37 @@ netflix_titles, consumer_data and viewing_behaviour_data with a total row count 
 
 # Executive Summary
 ### Overview of Findings
-Netflix is experiencing consistent revenue growth over the years initally starting with £130,000 in revenue to £13,000,000 in revenue. This indicates that they have optimal pricing stratergies and marketing efforts. The most popular genres globally that boost customer acquisition are international movies (green) and dramas (blue). The most reliabale content that leads to the lowest churn rates are predominatley TV shows and shows with a lot of replayability to them. 
+Netflix is experiencing consistent revenue growth over the years initially starting with £130,000 in revenue to £13,000,000. This indicates that they have optimal pricing strategies and marketing efforts. The most popular genres globally that boost customer acquisition are international movies (green) and dramas (blue). The most reliable content that leads to the lowest churn rates is predominately TV shows and shows with a lot of replayability to them. 
 
 ![image](https://github.com/user-attachments/assets/824b0129-336a-4efc-8d4a-82fa970cc4e2)
 
 # Insights Deep Dive
 ### Churn Analysis:
   
-* **Churn Globally:** Netflix, out of a sample of 1,000,000, has been able to keep the number of unsubscribers small:
-  * Over its early years, Netflix has had a very small increase in churn numbers. This suggests that they have done quite well in their startup years.
+* **Churn Globally:** TEXT
   
 * **Churn & Genre:** TEXT
 
-* **Churn Overall:** TEXT
+* **Churn Overall:** Out of a sample of 1,000,000 subscribers, Netflix has kept its unsubscribers relatively small with churn numbers only elevating during 2016. Most of its unsubscribers come from the USA but this is only natural as it has the largest share of Netflix's subscriber base.
+  * Over its early years, Netflix has had a tiny increase in churn numbers. This suggests that they have done quite well in their startup years being able to retain a loyal customer base. This indicates Netflix has strong customer satisfaction, effective content offerings and a competitive edge in the streaming market.
+  * Netflix's elevated levels of churn from 2016 onwards can be explained through a myriad of factors,
+    * **Market Saturation:** By 2016, Netflix had already captured a large share of potential subscribers, making it harder to sustain high growth while naturally increasing the likelihood of cancellations.
+    * **Consumer Behavior Shifts:** Viewers increasingly engaged in "subscription cycling," cancelling and resubscribing based on content availability.
+    * **Increased Competition:** Especially towards the ladder years, streaming competitors like Disney+, HBO Max, Apple TV+, and Amazon Prime Video gained traction, giving consumers more alternatives.
+    * **Password Sharing Crackdown:** Stricter enforcement against account sharing may have led to cancellations from users who previously relied on shared accounts.
+    * **Content Changes:** Netflix lost popular shows and movies as studios like Disney pulled their content to launch streaming services, leading to greater subscriber churn.  
 
 ![image](https://github.com/user-attachments/assets/59f4df20-91b9-4b92-adc3-9ddbaead6772)
 
 
 ### Revenue Evaluation:
 
-* **Steady Gains:** There is a very steady, linear increase in revenue for Netflix over the past couple of decades. This shows Netflix's stability and growth in the streaming industry and show's how it's model is quite reliable.  
+* **Steady Gains:** There has been a very steady, linear increase in revenue for Netflix over the past couple of decades. This shows Netflix's stability and growth in the streaming industry and shows how its model is quite reliable.  
   
-* **Subscription:** It seems that the Premium option generates the highest average revenue per subscriber. This could be because:
+* **Subscription:** The Premium option generates the highest average revenue per subscriber. This could be because:
   * Netflix's Premium option offers much more than its other options whilst costing substantially more which indicates that the Premium option is doing quite well overall and is well optimised.
   * The Premium plan allows up to four simultaneous streams, making it an attractive option for families, housemates, or friends who want to split the cost.
-  * While Netflix has cracked down on password sharing, this plan still enables multiple users within the same household to watch at once. Which explains the overall high average gains, high relative adoption ratings and thus long term subscriptions.
+  * While Netflix has cracked down on password sharing, this plan still enables multiple users within the same household to watch at once. This explains the overall high average gains, high relative adoption ratings and thus long-term subscriptions.
   
 * **Pricing Tiers:** Multiple A/B testings have proven that Netflix's monthly pricing tiers are already well optimised.
   * Experiments introducing annual pricing models with discounted rates showed no significant reduction in churn while leading to a measurable decrease in average revenue per user (ARPU).
@@ -60,8 +66,8 @@ Netflix is experiencing consistent revenue growth over the years initally starti
 
 ### Engagement Insights:
 
-* **Genre Popularity Globally:** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Genre Popularity Globally:** More detail about the supporting analysis of this insight, including time frames, quantitative values, and observations about trends.
   
-* **Yearly Genre Popularity:** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Yearly Genre Popularity:** More detail about the supporting analysis of this insight, including time frames, quantitative values, and observations about trends.
 
 ![image](https://github.com/user-attachments/assets/ca851615-e1e3-4363-8f75-90afff28e2c1)
