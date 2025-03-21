@@ -79,15 +79,15 @@ Netflix is experiencing consistent revenue growth over the years initially start
  - These genres all have high levels of replayability which, as mentioned in [Churn Analysis](#churn-analysis), contribute significantly to their growing viewership. Audiences likely return to these genres for their emotional depth, humour, global perspective, and thought-provoking content.
  - All genres show increasing views per year, demonstrating that audiences are broadening their preferences and seeking diverse content.
    - This increase could be fueled by improved accessibility, cultural shifts, and the rise of streaming platforms making these genres more readily available.
-   - This also suggests that people have more free time during the latter parts of the year and tend to become less productive as the months go by meaning they are more likely to binge a TV show or watch another movie.
+   - This also suggests that people have more free time during the latter parts of the year and tend to become less productive as the months go by meaning they are more likely to binge a TV show or watch another movie. 
 
 ![image](https://github.com/user-attachments/assets/ca851615-e1e3-4363-8f75-90afff28e2c1)
 
 # Recommendations:
 
-Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following: 
+Based on the insights and findings above, we would recommend the _Financial Planning and Analysis_ and _Strategy and Analysis_ teams to consider the following: 
 
-**ADD RECOMMENDATIONS HERE**
+* **Replayability is Netflix's Bedrock:** One-time big shows and movies bolster Netflix's customer acquisition. However, the reason why customers stay subscribed to Netflix are the many classics, comedies and other content that has a lot of replayability. Netflix should consider doing some further market analysis on what specific titles customers like and buy the rights to have them on their platform.
 
 # Assumptions and Caveats:
 
