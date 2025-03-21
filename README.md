@@ -78,6 +78,8 @@ Netflix is experiencing consistent revenue growth over the years initially start
 * **Yearly Genre Popularity:** The most viewed genre categories per year are International Movies, Dramas, Comedies, International TV Shows, and Documentaries.
 
  * These genres all have high levels of replayability which, as mentioned in [Churn Analysis](#churn-analysis), contribute significantly to their growing viewership. Audiences likely return to these genres for their emotional depth, humour, global perspective, and thought-provoking content.
-Continual Growth: All genres show an increase in views per year, demonstrating that audiences are broadening their preferences and seeking diverse content. This increase could be fueled by improved accessibility, cultural shifts, and the rise of streaming platforms making these genres more readily available.
+ * All genres show increasing views per year, demonstrating that audiences are broadening their preferences and seeking diverse content.
+   * This increase could be fueled by improved accessibility, cultural shifts, and the rise of streaming platforms making these genres more readily available.
+   * This also suggests that people have more free time during the latter parts of the year and tend to become less productive as the months go by meaning they are more likely to binge a TV show or watch another movie.
 
 ![image](https://github.com/user-attachments/assets/ca851615-e1e3-4363-8f75-90afff28e2c1)
