@@ -89,9 +89,7 @@ Based on the insights and findings above, we would recommend the _Financial Plan
 
 - **Replayability is Netflix's Bedrock:** One-time big shows and movies bolster Netflix's customer acquisition. However, the reason why customers stay subscribed to Netflix are the many classics, comedies and other content that has a lot of replayability. Netflix should consider doing some further market analysis on what specific titles customers like and buy the rights to have them on their platform.
   
-- **Competitor Analysis:** While Netflix’s pricing tiers are already well-optimised, we recommend conducting a competitive analysis of major rivals such as Amazon Prime Video and HBO Max. This could uncover opportunities to refine Netflix’s pricing strategy further thus undercutting competitors and strengthening its market position.
-
-- 
+- **Competitor Analysis:** While Netflix’s pricing tiers are already well-optimised, we recommend conducting a competitive analysis of major rivals such as Amazon Prime Video and HBO Max. This could uncover opportunities to refine Netflix’s pricing strategy further. Therefore Netflix can undercut its competitors and strengthen its market position.
 
 # Assumptions and Caveats:
 
@@ -103,3 +101,5 @@ Throughout the analysis, multiple assumptions were made to manage challenges wit
   - Standard with Ads (£5.99)
   - Standard (£12.99)
   - Premium (£18.99)
+
+- **Assumption 3:** The synthitically generated data using Python and AI is fully accurate and a perfect representation of Netflix's real life customer data, subscription activity and pricing tiers. 
