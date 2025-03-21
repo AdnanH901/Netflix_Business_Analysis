@@ -35,9 +35,10 @@ Netflix is experiencing consistent revenue growth over the years initially start
   
 * **Churn Globally:** TEXT
   
-* **Churn & Genre:** TEXT
-
-* **Churn Overall:** Out of a sample of 1,000,000 subscribers, Netflix has kept its unsubscribers relatively small with churn numbers only elevating during 2016. Most of its unsubscribers come from the USA but this is only natural as it has the largest share of Netflix's subscriber base.
+* **Churn & Genre:** The genres associated with the lowest churn rates are defined as those that consistently retain viewers and encourage long-term subscriptions. The genre with the lowest rates by far is *TV shows*, followed by genres such as *Science & Nature TV*, *Stand-Up Comedy & Talk Shows* and *TV Comedies*.
+  * Along with the other genres with low churn rates, most of them share a common trait of having a lot of replayability. This implies that Netflix subscribers prefer titles with more replayability thus giving them an incentive to stay subscribed after they have finished titles they would only watch once.
+  * By having content that can be watched repeatedly or consumed over time (e.g., episodic content), these genres ensure that subscribers stay engaged, even during gaps between new releases.
+* **Churn Overall:** Out of 1,000,000 subscribers, Netflix has kept its unsubscribers relatively small with churn numbers only elevating during 2016. Most of its unsubscribers come from the USA but this is only natural as it has the largest share of Netflix's subscriber base.
   * Over its early years, Netflix has had a tiny increase in churn numbers. This suggests that they have done quite well in their startup years being able to retain a loyal customer base. This indicates Netflix has strong customer satisfaction, effective content offerings and a competitive edge in the streaming market.
   * Netflix's elevated levels of churn from 2016 onwards can be explained through a myriad of factors,
     * **Market Saturation:** By 2016, Netflix had already captured a large share of potential subscribers, making it harder to sustain high growth while naturally increasing the likelihood of cancellations.
