@@ -87,7 +87,11 @@ Netflix is experiencing consistent revenue growth over the years initially start
 
 Based on the insights and findings above, we would recommend the _Financial Planning and Analysis_ and _Strategy and Analysis_ teams to consider the following: 
 
-* **Replayability is Netflix's Bedrock:** One-time big shows and movies bolster Netflix's customer acquisition. However, the reason why customers stay subscribed to Netflix are the many classics, comedies and other content that has a lot of replayability. Netflix should consider doing some further market analysis on what specific titles customers like and buy the rights to have them on their platform.
+- **Replayability is Netflix's Bedrock:** One-time big shows and movies bolster Netflix's customer acquisition. However, the reason why customers stay subscribed to Netflix are the many classics, comedies and other content that has a lot of replayability. Netflix should consider doing some further market analysis on what specific titles customers like and buy the rights to have them on their platform.
+  
+- **Competitor Analysis:** While Netflix’s pricing tiers are already well-optimised, we recommend conducting a competitive analysis of major rivals such as Amazon Prime Video and HBO Max. This could uncover opportunities to refine Netflix’s pricing strategy further thus undercutting competitors and strengthening its market position.
+
+- 
 
 # Assumptions and Caveats:
 
