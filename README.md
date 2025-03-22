@@ -7,11 +7,13 @@ Insights and recommendations are provided on the following key areas:
 
 - **Churn Analysis:** An evaluation of general churn rate activity and churn rates across various sectors.
 - **Revenue Evaluation:** An investigation of Netflix's global revenue and scrutinisation of their pricing tiers to see if they can be optimised.
-- **Engagement Insights:** An analysis of the most popular genres by country.
+- **Engagement Insights:** An analysis of the most popular genres by country and why this is the case.
 
-Targeted SQL queries regarding various business questions are found here [link].
+Targeted SQL queries regarding various business questions are found [here](https://github.com/AdnanH901/Netflix_Business_Analysis/blob/main/PostgreSQL/netflix_business_analysis.sql).
 
-The Tableau dashboards for reporting and exploring customer churn, acquisition trends and pricing optimisation can be found here [link].
+The Tableau dashboards for reporting and exploring customer churn, acquisition trends and pricing optimisation can be found [here](https://github.com/AdnanH901/Netflix_Business_Analysis/tree/main/TableauDashboards).
+
+A/B testing conducted during the [Revenue Evaluation & Pricing](#revenue-evaluation) segment can be found [here](https://github.com/AdnanH901/Netflix_Business_Analysis/blob/main/Python/ABtesting.py)
 
 # Data Structure & Initial Checks
 ## ERD Diagram of Data
@@ -104,4 +106,4 @@ Throughout the analysis, multiple assumptions were made to manage challenges wit
   - Standard (£12.99)
   - Premium (£18.99)
 
-- **Assumption 3:** The synthitically generated data using Python and AI is fully accurate and a perfect representation of Netflix's real-life customer data, subscription activity and pricing tiers. 
+- **Assumption 3:** The synthetically generated data (see [Python code](https://github.com/AdnanH901/Netflix_Business_Analysis/blob/main/Python/generating_tables.py)) using Python and AI is fully accurate and a perfect representation of Netflix's real-life customer data, subscription activity and pricing tiers. 
