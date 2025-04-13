@@ -52,7 +52,7 @@ Netflix is experiencing consistent revenue growth over the years, initially star
   - Along with the other genres with low churn rates, most of them share a common trait of having a lot of replayability. This implies that Netflix subscribers prefer titles with more replayability thus giving them an incentive to stay subscribed after they have finished titles they would only watch once.
   - By having content that can be watched repeatedly or consumed over time (e.g., episodic content), these genres ensure that subscribers stay engaged, even during gaps between new releases.
 
-- **Churn Globally:** The countries with the highest churn counts are the USA with 464 unsubscribed, Brazil with 97 unsubscribed, closely followed by the UK and India with 93 and 89 unsubscribed respectively. The markets with the biggest overall churners are North America and Europe.
+- **Churn Globally:** The countries with the highest churn counts are the USA with 464 unsubscribed, Brazil with 97 unsubscribed, closely followed by the UK and India with 93 and 89 unsubscribed, respectively. The markets with the biggest overall churners are North America and Europe.
 
 ![image](https://github.com/user-attachments/assets/59f4df20-91b9-4b92-adc3-9ddbaead6772)
 
@@ -75,13 +75,13 @@ Netflix is experiencing consistent revenue growth over the years, initially star
 
 ### Engagement Insights:
 
-- **Genre Popularity Globally:** More detail about the supporting analysis of this insight, including time frames, quantitative values, and observations about trends.
+- **Genre Popularity Globally:** More details about the supporting analysis of this insight, including time frames, quantitative values, and observations about trends.
   
 - **Yearly Genre Popularity:** The most viewed genre categories per year are International Movies, Dramas, Comedies, International TV Shows, and Documentaries.
-    - These genres all have high levels of replayability which, as mentioned in [Churn Analysis](#churn-analysis), contribute significantly to their growing viewership. Audiences likely return to these genres for their emotional depth, humour, global perspective, and thought-provoking content.
+    - These genres all have high levels of replayability, which, as mentioned in [Churn Analysis](#churn-analysis), contribute significantly to their growing viewership. Audiences likely return to these genres for their emotional depth, humour, global perspective, and thought-provoking content.
     - All genres show increasing views per year, demonstrating that audiences are broadening their preferences and seeking diverse content.
       - This increase could be fueled by improved accessibility, cultural shifts, and the rise of streaming platforms making these genres more readily available.
-      - This also suggests that people have more free time during the latter parts of the year and tend to become less productive as the months go by meaning they are more likely to binge a TV show or watch another movie. 
+      - This also suggests that people have more free time during the latter parts of the year and tend to become less productive as the months go by, meaning they are more likely to binge-watch a TV show or watch another movie. 
 
 ![image](https://github.com/user-attachments/assets/ca851615-e1e3-4363-8f75-90afff28e2c1)
 
@@ -91,7 +91,7 @@ Based on the insights and findings above, we would recommend the _Financial Plan
 
 - **Replayability is Netflix's Bedrock:** One-time big shows and movies bolster Netflix's customer acquisition. However, customers stay subscribed to Netflix because of the many classics, comedies, and other content that is highly replayable. Netflix should consider doing some further market analysis on what specific titles customers like and buying the rights to have them on their platform.
   
-- **Competitor Analysis:** While Netflix’s pricing tiers are already well-optimised, we recommend conducting a competitive analysis of major rivals such as Amazon Prime Video and HBO Max. This could uncover opportunities to refine Netflix’s pricing strategy further. Therefore Netflix can undercut its competitors and strengthen its market position.
+- **Competitor Analysis:** While Netflix’s pricing tiers are already well-optimised, we recommend conducting a competitive analysis of major rivals such as Amazon Prime Video and HBO Max. This could uncover opportunities to refine Netflix’s pricing strategy further. Therefore, Netflix can undercut its competitors and strengthen its market position.
 
 - - **Appeal to Older Adults:** Netflix should procure some shows that are tailored towards the *Gen X* & *Baby Boomers* audience. Topics such as "*what genres do the older generation prefer*" and "*do they prefer other streaming platforms and if so, why*", among others, should be explored.
 
@@ -99,11 +99,11 @@ Based on the insights and findings above, we would recommend the _Financial Plan
 
 Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
 
-- **Assumption 1:** The amount paid for subscribers between countries does vary depending on multiple factors. But for ease of calculations, it is assumed that each country pays the same amount per pricing tier in GPB.
+- **Assumption 1:** The amount paid for subscribers between countries does vary depending on multiple factors. But for ease of calculations, it is assumed that each country pays the same amount per pricing tier in GBP.
   
 - **Assumption 2:** Netflix only has three and only three monthly pricing tiers that have not varied in price throughout the years. Those being
   - Standard with Ads (£5.99)
   - Standard (£12.99)
   - Premium (£18.99)
 
-- **Assumption 3:** The synthetically generated data (see [Python](https://github.com/AdnanH901/Netflix_Business_Analysis/blob/main/Python/generating_tables.py) code) using Python and AI is fully accurate and a perfect representation of Netflix's real-life customer data, subscription activity and pricing tiers. 
+- **Assumption 3:** The synthetically generated data (see Python file [*generating_tables.py*](https://github.com/AdnanH901/Netflix_Business_Analysis/blob/main/Python/generating_tables.py) code) using Python and AI is fully accurate and a perfect representation of Netflix's real-life customer data, subscription activity and pricing tiers. 
