@@ -1,4 +1,4 @@
-# Project background
+# Netflix Overview
 Netflix (founded in 1997) is a global leader in the streaming and entertainment market. It offers a variety of TV shows, movies, documentaries and original content. They have over **over 300 million subscribers** worldwide (as of 2024).
 
 The company has significant data on its content offerings, operational efficiency, and customer retention rates that have previously been underutilised. This project thoroughly analyses and synthesises this data to uncover critical insights that will improve Netflix's customer acquisition and retention.
