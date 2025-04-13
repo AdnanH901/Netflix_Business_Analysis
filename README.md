@@ -11,9 +11,9 @@ Insights and recommendations are provided on the following key areas:
 
 Targeted SQL queries regarding various business questions are found [here](https://github.com/AdnanH901/Netflix_Business_Analysis/blob/main/PostgreSQL/netflix_business_analysis.sql).
 
-The Tableau dashboards for reporting and exploring customer churn, acquisition trends and pricing optimisation can be found [here](https://github.com/AdnanH901/Netflix_Business_Analysis/tree/main/TableauDashboards).
+The Tableau dashboards for reporting and exploring customer churn, acquisition trends and pricing optimisation are found [here](https://github.com/AdnanH901/Netflix_Business_Analysis/tree/main/TableauDashboards).
 
-A/B testing conducted during the [Revenue Evaluation & Pricing](#revenue-evaluation) segment can be found [here](https://github.com/AdnanH901/Netflix_Business_Analysis/blob/main/Python/ABtesting.py)
+A/B testing conducted during the [Revenue Evaluation & Pricing](#revenue-evaluation) segment are found [here](https://github.com/AdnanH901/Netflix_Business_Analysis/blob/main/Python/ABtesting.py)
 
 # Data Structure & Initial Checks
 ## ERD Diagram of Data
