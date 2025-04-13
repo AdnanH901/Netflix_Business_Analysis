@@ -21,7 +21,7 @@ A/B testing conducted during the [Revenue Evaluation & Pricing](#revenue-evaluat
 ![image](https://github.com/user-attachments/assets/fe87f594-3521-4587-8129-61f8b71948b7)
 
 ## Summary of Data
-Netflix's main database structure as seen below consists of three tables:
+Netflix's main database structure, as seen below, consists of three tables:
 netflix_titles, consumer_data and viewing_behaviour_data with a total row count of **1,200,000**. A description of each table is as follows:
 - **netflix_titles:** A catalogue of over **8,800** titles ranging from movies, shows, documentaries etc.
 - **consumer_data:** A table filled with data comprising of **100,000** subscribers.
@@ -32,7 +32,7 @@ netflix_titles, consumer_data and viewing_behaviour_data with a total row count 
 
 ![image](https://github.com/user-attachments/assets/824b0129-336a-4efc-8d4a-82fa970cc4e2)
 
-Netflix is experiencing consistent revenue growth over the years initially starting with **£130,000** in revenue to **£13,000,000**. This indicates that they have optimal pricing strategies and marketing efforts. Globally the most popular genres that boost customer acquisition are international movies (*green*) and dramas (*blue*). The most reliable content that leads to the lowest churn rates is predominately TV shows and shows with a lot of replayability. 
+Netflix is experiencing consistent revenue growth over the years, initially starting with **£130,000** in revenue to **£13,000,000**. This indicates that they have optimal pricing strategies and marketing efforts. Globally, the most popular genres that boost customer acquisition are international movies (*green*) and dramas (*blue*). The most reliable content that leads to the lowest churn rates is predominantly TV shows and shows with a lot of replayability. 
 
 # Insights Deep Dive
 ### Churn Analysis:
@@ -46,13 +46,13 @@ Netflix is experiencing consistent revenue growth over the years initially start
     - **Password Sharing Crackdown:** Stricter enforcement against account sharing may have led to cancellations from users who previously relied on shared accounts.
     - **Content Changes:** Netflix lost popular shows and movies as studios like Disney pulled their content to launch streaming services, leading to greater subscriber churn.
 
-- **Churn per Generation:** The two generations with the highest churn rates are *Baby Boomers* and *Gen X* born between 1946-1964 and 1965-1980 respectively. This suggests that Netflix has a huge gap in its customer retention strategy, particularly among older generations who may have different viewing habits, preferences and expectations. 
+- **Churn per Generation:** The two generations with the highest churn rates are *Baby Boomers* and *Gen X*, born between 1946-1964 and 1965-1980 respectively. This suggests that Netflix has a huge gap in its customer retention strategy, particularly among older generations who may have different viewing habits, preferences and expectations. 
   
 - **Churn & Genre:** The genres associated with the lowest churn rates are defined as those that consistently retain viewers and encourage long-term subscriptions. The genre with the lowest rates by far is *TV shows*, followed by genres such as *Science & Nature TV*, *Stand-Up Comedy & Talk Shows* and *TV Comedies*.
   - Along with the other genres with low churn rates, most of them share a common trait of having a lot of replayability. This implies that Netflix subscribers prefer titles with more replayability thus giving them an incentive to stay subscribed after they have finished titles they would only watch once.
   - By having content that can be watched repeatedly or consumed over time (e.g., episodic content), these genres ensure that subscribers stay engaged, even during gaps between new releases.
 
-- **Churn Globally:** The countries with the highest churn counts are the USA with 464 unsubscribed, Brazil with 97 unsubscribed closely followed by the UK and India with 93 and 89 unsubscribed respectively. The markets with the biggest overall churners are North America and Europe.
+- **Churn Globally:** The countries with the highest churn counts are the USA with 464 unsubscribed, Brazil with 97 unsubscribed, closely followed by the UK and India with 93 and 89 unsubscribed respectively. The markets with the biggest overall churners are North America and Europe.
 
 ![image](https://github.com/user-attachments/assets/59f4df20-91b9-4b92-adc3-9ddbaead6772)
 
@@ -63,7 +63,7 @@ Netflix is experiencing consistent revenue growth over the years initially start
   - Netflix started their first year by generating **£130,000** and has gone up to **£13,000,000** in revenue in 2024. This shows Netflix's stability and growth in the streaming industry and shows how its model is quite reliable.
   
 - **Subscription:** The Premium option generates the highest average revenue per subscriber. This could be because:
-  - Netflix's Premium option offers much more than its other options whilst costing substantially more which indicates that the Premium option is doing quite well overall and is well optimised.
+  - Netflix's Premium option offers much more than its other options, whilst costing substantially more, which indicates that the Premium option is doing quite well overall and is well optimised.
   - The Premium plan allows up to four simultaneous streams, making it an attractive option for families, housemates, or friends who want to split the cost.
   - While Netflix has cracked down on password sharing, this plan still enables multiple users within the same household to watch at once. This explains the overall high average gains, high relative adoption ratings and thus long-term subscriptions.
   
@@ -93,7 +93,7 @@ Based on the insights and findings above, we would recommend the _Financial Plan
   
 - **Competitor Analysis:** While Netflix’s pricing tiers are already well-optimised, we recommend conducting a competitive analysis of major rivals such as Amazon Prime Video and HBO Max. This could uncover opportunities to refine Netflix’s pricing strategy further. Therefore Netflix can undercut its competitors and strengthen its market position.
 
-- - **Appeal to Older Adults:** Netflix should procure some shows that tailor towards the *Gen X* & *Baby Boomers* audience. Investigating topics such as "*what genres do the older generation prefer*", and "*do they prefer other streaming platforms and if so why*" among others should be explored.
+- - **Appeal to Older Adults:** Netflix should procure some shows that are tailored towards the *Gen X* & *Baby Boomers* audience. Topics such as "*what genres do the older generation prefer*" and "*do they prefer other streaming platforms and if so, why*", among others, should be explored.
 
 # Assumptions and Caveats:
 
@@ -101,9 +101,9 @@ Throughout the analysis, multiple assumptions were made to manage challenges wit
 
 - **Assumption 1:** The amount paid for subscribers between countries does vary depending on multiple factors. But for ease of calculations, it is assumed that each country pays the same amount per pricing tier in GPB.
   
-- **Assumption 2:** Netflix only has three and only three monthly pricing tiers that did not vary in price throughout the years. Those being
+- **Assumption 2:** Netflix only has three and only three monthly pricing tiers that have not varied in price throughout the years. Those being
   - Standard with Ads (£5.99)
   - Standard (£12.99)
   - Premium (£18.99)
 
-- **Assumption 3:** The synthetically generated data (see [Python code](https://github.com/AdnanH901/Netflix_Business_Analysis/blob/main/Python/generating_tables.py)) using Python and AI is fully accurate and a perfect representation of Netflix's real-life customer data, subscription activity and pricing tiers. 
+- **Assumption 3:** The synthetically generated data (see [Python](https://github.com/AdnanH901/Netflix_Business_Analysis/blob/main/Python/generating_tables.py) code) using Python and AI is fully accurate and a perfect representation of Netflix's real-life customer data, subscription activity and pricing tiers. 
