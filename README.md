@@ -36,8 +36,9 @@ Netflix is experiencing consistent revenue growth over the years, initially star
 
 # Insights Deep Dive
 ### Churn Analysis:
+![image](https://github.com/user-attachments/assets/59f4df20-91b9-4b92-adc3-9ddbaead6772)
 
-- **Churn Overall:** Out of **1,000,000** subscribers, Netflix has kept its unsubscribers relatively small with churn numbers only elevating during 2016.
+- **Churn Overall:** Out of **1,000,000** subscribers, Netflix has kept its unsubscribers relatively small, with churn numbers only elevating during 2016.
   - Over its early years, Netflix has had a tiny increase in churn numbers. This suggests that they have done quite well in their startup years being able to retain a loyal customer base. This indicates Netflix has strong customer satisfaction, effective content offerings and a competitive edge in the streaming market.
   - Netflix's elevated levels of churn from 2016 onwards can be explained through a myriad of factors,
     - **Market Saturation:** By 2016, Netflix had already captured a large share of potential subscribers, making it harder to sustain high growth while naturally increasing the likelihood of cancellations.
@@ -49,15 +50,13 @@ Netflix is experiencing consistent revenue growth over the years, initially star
 - **Churn per Generation:** The two generations with the highest churn rates are *Baby Boomers* and *Gen X*, born between 1946-1964 and 1965-1980 respectively. This suggests that Netflix has a huge gap in its customer retention strategy, particularly among older generations who may have different viewing habits, preferences and expectations. 
   
 - **Churn & Genre:** The genres associated with the lowest churn rates are defined as those that consistently retain viewers and encourage long-term subscriptions. The genre with the lowest rates by far is *TV shows*, followed by genres such as *Science & Nature TV*, *Stand-Up Comedy & Talk Shows* and *TV Comedies*.
-  - Along with the other genres with low churn rates, most of them share a common trait of having a lot of replayability. This implies that Netflix subscribers prefer titles with more replayability thus giving them an incentive to stay subscribed after they have finished titles they would only watch once.
+  - Along with the other genres with low churn rates, most of them share a common trait of having a lot of replayability. This implies that Netflix subscribers prefer titles with more replayability, thus giving them an incentive to stay subscribed after they have finished titles they would only watch once.
   - By having content that can be watched repeatedly or consumed over time (e.g., episodic content), these genres ensure that subscribers stay engaged, even during gaps between new releases.
 
 - **Churn Globally:** The countries with the highest churn counts are the USA with 464 unsubscribed, Brazil with 97 unsubscribed, closely followed by the UK and India with 93 and 89 unsubscribed, respectively. The markets with the biggest overall churners are North America and Europe.
 
-![image](https://github.com/user-attachments/assets/59f4df20-91b9-4b92-adc3-9ddbaead6772)
-
-
 ### Revenue Evaluation:
+![image](https://github.com/user-attachments/assets/516b80aa-d0e0-4e5d-8ad1-01b2f3df9dd1)
 
 - **Steady Gains:** There has been a very steady, linear increase in revenue for Netflix over the past couple of decades.
   - Netflix started their first year by generating **£130,000** and has gone up to **£13,000,000** in revenue in 2024. This shows Netflix's stability and growth in the streaming industry and shows how its model is quite reliable.
@@ -69,11 +68,9 @@ Netflix is experiencing consistent revenue growth over the years, initially star
   
 - **Pricing Tiers:** Multiple A/B testings have proven that Netflix's monthly pricing tiers are already well optimised.
   - Experiments introducing annual pricing models with discounted rates showed no significant reduction in churn while leading to a measurable decrease in average revenue per user (ARPU).
-  - These findings suggest that annual pricing tiers are deceptive in value for Netflix. They do not improve on long-term retention and can negatively impact overall revenue.
-
-![image](https://github.com/user-attachments/assets/516b80aa-d0e0-4e5d-8ad1-01b2f3df9dd1)
-
+  - These findings suggest that annual pricing tiers are deceptive in value for Netflix. They do not improve long-term retention and can negatively impact overall revenue.
 ### Engagement Insights:
+![image](https://github.com/user-attachments/assets/ca851615-e1e3-4363-8f75-90afff28e2c1)
 
 - **Genre Popularity Globally:** More details about the supporting analysis of this insight, including time frames, quantitative values, and observations about trends.
   
@@ -81,9 +78,7 @@ Netflix is experiencing consistent revenue growth over the years, initially star
     - These genres all have high levels of replayability, which, as mentioned in [Churn Analysis](#churn-analysis), contribute significantly to their growing viewership. Audiences likely return to these genres for their emotional depth, humour, global perspective, and thought-provoking content.
     - All genres show increasing views per year, demonstrating that audiences are broadening their preferences and seeking diverse content.
       - This increase could be fueled by improved accessibility, cultural shifts, and the rise of streaming platforms making these genres more readily available.
-      - This also suggests that people have more free time during the latter parts of the year and tend to become less productive as the months go by, meaning they are more likely to binge-watch a TV show or watch another movie. 
-
-![image](https://github.com/user-attachments/assets/ca851615-e1e3-4363-8f75-90afff28e2c1)
+      - This also suggests that people have more free time during the latter parts of the year and tend to become less productive as the months go by, meaning they are more likely to binge-watch a TV show or watch another movie.
 
 # Recommendations:
 
@@ -101,7 +96,7 @@ Throughout the analysis, multiple assumptions were made to manage challenges wit
 
 - **Assumption 1:** The amount paid for subscribers between countries does vary depending on multiple factors. But for ease of calculations, it is assumed that each country pays the same amount per pricing tier in GBP.
   
-- **Assumption 2:** Netflix only has three and only three monthly pricing tiers that have not varied in price throughout the years. Those being
+- **Assumption 2:** Netflix only has three and only three monthly pricing tiers that have not varied in price throughout the years. Those being:
   - Standard with Ads (£5.99)
   - Standard (£12.99)
   - Premium (£18.99)
