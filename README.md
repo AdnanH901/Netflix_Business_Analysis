@@ -15,7 +15,7 @@ The Tableau dashboards for reporting and exploring customer churn, acquisition t
 
 A/B testing conducted during the [Revenue Evaluation & Pricing](#revenue-evaluation) segment are found [here](https://github.com/AdnanH901/Netflix_Business_Analysis/blob/main/Python/ABtesting.py)
 
-To quickly view the overview of findings and recommendations, click on [Overview of Findings](#overview-of-findings) and [recommendations](#recommendations).
+To quickly view the overview of findings and recommendations, click on [Overview of Findings](#overview-of-findings) and [Recommendations](#recommendations).
 
 # Data Structure & Initial Checks
 ## ERD Diagram of Data
