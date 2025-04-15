@@ -6,7 +6,7 @@ The company has significant data on its content offerings, operational efficienc
 Insights and recommendations are provided on the following key areas:
 
 - **Churn Analysis:** An evaluation of general churn rate activity and churn rates across various sectors.
-- **Revenue Evaluation:** An investigation of Netflix's global revenue and scrutinisation of their pricing tiers to see if they can be optimised.
+- **Revenue Evaluation:** An investigation of Netflix's global revenue and scrutiny of their pricing tiers to see if they can be optimised.
 - **Engagement Insights:** An analysis of the most popular genres by country and why this is the case.
 
 Targeted SQL queries regarding various business questions are found [here](https://github.com/AdnanH901/Netflix_Business_Analysis/blob/main/PostgreSQL/netflix_business_analysis.sql).
@@ -14,6 +14,8 @@ Targeted SQL queries regarding various business questions are found [here](https
 The Tableau dashboards for reporting and exploring customer churn, acquisition trends and pricing optimisation are found [here](https://github.com/AdnanH901/Netflix_Business_Analysis/tree/main/TableauDashboards).
 
 A/B testing conducted during the [Revenue Evaluation & Pricing](#revenue-evaluation) segment are found [here](https://github.com/AdnanH901/Netflix_Business_Analysis/blob/main/Python/ABtesting.py)
+
+To quickly view the overview of findings and recommendations, click on [Overview of Findings](#overview-of-findings) and [recommendations](#recommendations).
 
 # Data Structure & Initial Checks
 ## ERD Diagram of Data
