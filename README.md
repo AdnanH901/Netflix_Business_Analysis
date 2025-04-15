@@ -90,7 +90,7 @@ Based on the insights and findings above, we would recommend the _Financial Plan
   
 - **Competitor Analysis:** While Netflix’s pricing tiers are already well-optimised, we recommend conducting a competitive analysis of major rivals such as Amazon Prime Video and HBO Max. This could uncover opportunities to refine Netflix’s pricing strategy further. Therefore, Netflix can undercut its competitors and strengthen its market position.
 
-- - **Appeal to Older Adults:** Netflix should procure some shows that are tailored towards the *Gen X* & *Baby Boomers* audience. Topics such as "*what genres do the older generation prefer*" and "*do they prefer other streaming platforms and if so, why*", among others, should be explored.
+  - **Appeal to Older Adults:** Netflix should procure some shows that are tailored towards the *Gen X* & *Baby Boomers* audience. Topics such as "*what genres do the older generation prefer*" and "*do they prefer other streaming platforms and if so, why*", among others, should be explored.
 
 # Assumptions and Caveats:
 
