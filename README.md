@@ -9,6 +9,8 @@ Insights and recommendations are provided on the following key areas:
 - **Revenue Evaluation:** An investigation of Netflix's global revenue and scrutiny of their pricing tiers to see if they can be optimised.
 - **Engagement Insights:** An analysis of the most popular genres by country and why this is the case.
 
+## Key Deliverables and Navigational Links
+
 Targeted SQL queries regarding various business questions are found [here](https://github.com/AdnanH901/Netflix_Business_Analysis/blob/main/PostgreSQL/netflix_business_analysis.sql).
 
 The Tableau dashboards for reporting and exploring customer churn, acquisition trends and pricing optimisation are found [here](https://github.com/AdnanH901/Netflix_Business_Analysis/tree/main/TableauDashboards).
@@ -20,7 +22,8 @@ To quickly view the overview of findings and recommendations, click on [Overview
 # Data Structure & Initial Checks
 ## ERD Diagram of Data
 
-![image](https://github.com/user-attachments/assets/fe87f594-3521-4587-8129-61f8b71948b7)
+![image](https://github.com/user-attachments/assets/5bf2a110-4939-4c3d-977e-54548e9c1013)
+
 
 ## Summary of Data
 Netflix's main database structure, as seen below, consists of three tables:
