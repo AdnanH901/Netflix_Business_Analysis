@@ -25,12 +25,29 @@ To quickly view the overview of findings and recommendations, click on [Overview
 ![image](https://github.com/user-attachments/assets/5bf2a110-4939-4c3d-977e-54548e9c1013)
 
 
-## Summary of Data
+## Summary of Data and Key Performance Indicators
+### Summary
 Netflix's main database structure, as seen below, consists of three tables:
 netflix_titles, consumer_data and viewing_behaviour_data with a total row count of **1,200,000**. A description of each table is as follows:
 - **netflix_titles:** A catalogue of over **8,800** titles ranging from movies, shows, documentaries etc.
 - **consumer_data:** A table filled with data comprising of **100,000** subscribers.
 - **viewing_behaviour_data:** A table comprisng of **1,000,000** viewings from the **100,000** subscribers in consumer_data from titles in netflix_titles.
+
+### KPIs
+| KPI                             | Definition Summary                                                  |
+|---------------------------------|---------------------------------------------------------------------|
+| Revenue                         | Total revenue over time.                                            |
+| Churn Rate (Overall)            | Subscribers cancelling subscriptions over time.                     |
+| Churn per Generation            | Churn segmented by generational age groups.                         |
+| Churn by Genre                  | Churn linked to content genres.                                     |
+| Average Revenue Per User (ARPU) | Average revenue per subscriber by tier.                             |
+| Subscription Tier Adoption      | Revenue and uptake of pricing plans.                                |
+| Genre Popularity                | Viewer counts per genre over time.                                  |
+| Replayability                   | Content’s ability to encourage repeat viewing.                      |
+| Customer Acquisition            | New subscriber growth linked to genre popularity.                   |
+| Global Churn                    | Churn segmented by country.                                         |
+
+---
 
 # Executive Summary
 ### Overview of Findings
